@@ -1,1 +1,7 @@
 Adding header to file
+file to commit
+Adding more content to the file
+Adding footer note
+
+Adding content
+
