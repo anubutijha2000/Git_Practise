@@ -5,3 +5,4 @@ Adding footer note
 
 Adding content
 
+Another message for green mode.
